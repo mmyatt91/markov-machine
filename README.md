@@ -1,6 +1,5 @@
-# markov-machine
+# Markov-Machine
 
-Springboard Software Engineering Track
-31.4 Testing with Jest & Node Exercises
+Springboard Software Engineering Track 31.4: Testing with Jest & Node Exercises
 
-Subunit Assignment: An algorithm for generating realistic machine-made text from an original source text. Create tests for the algorithms.
+Subunit Exercise: An algorithm for generating realistic machine-made text from an original source text. Create tests for the algorithms.
